@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to MyBank cards related QA APIs "
+  contactDetails:
+    name: "fatima - QA Lead"
+    email: "fatima@gmail.com"
+  onCallSupport:
+    - (212) 875-4367
+    - (212) 236-1267

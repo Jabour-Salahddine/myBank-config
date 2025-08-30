@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to MyBank accounts related docker APIs "
+  contactDetails:
+    name: "stito - Developer"
+    email: "stito@gmail.com"
+  onCallSupport:
+    - (212) 755-123-489
+    - (212) 523-134-578

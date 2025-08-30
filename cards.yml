@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to MyBank cards related local APIs "
+  contactDetails:
+    name: " soumiya - Developer"
+    email: "soumiya@gmail.com"
+  onCallSupport:
+    - (212) 419-349-541
+    - (212) 382-193-245

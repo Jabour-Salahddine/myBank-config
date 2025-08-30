@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to MyBank loans related QA APIs "
+  contactDetails:
+    name: "Maryem - QA Lead"
+    email: "mari@gmail.com"
+  onCallSupport:
+    - (212) 545-656589
+    - (212) 546-3467454

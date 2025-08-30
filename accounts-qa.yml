@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to MyBank accounts related QA APIs "
+  contactDetails:
+    name: "Said Slami - QA Lead"
+    email: "said@gmail.com"
+  onCallSupport:
+    - (212) 265-376-586
+    - (212) 734-838-141

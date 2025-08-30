@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Hey, welcome to MyBank loans related prod APIs "
+  contactDetails:
+    name: "salah - Product Owner"
+    email: "salah@gmail.com"
+  onCallSupport:
+    - (212) 656-870999
+    - (212) 342-095654

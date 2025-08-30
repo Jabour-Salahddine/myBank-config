@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to MyBank loans related local APIs "
+  contactDetails:
+    name: "Amal - Developer"
+    email: "amal@gmail.com"
+  onCallSupport:
+    - (694) 456-217655
+    - (694) 764-893489
