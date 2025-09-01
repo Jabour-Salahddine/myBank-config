@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, mrhba bikom to MyBank accounts related webhook APIs"
+  message: "Hey, mrhba bikom to MyBank accounts related production APIs"
   contactDetails:
     name: "Yasmine - Product Owner"
     email: "{cipher}836edceabbdc57bb4096548b44dea5e763aee13d647d46db97b000722d98c1742cfd038ee0f42af5afd2d622b5337d7c"
