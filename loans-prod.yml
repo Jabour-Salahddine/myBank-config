@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Hey, mrhba bikom to MyBank loans related prod APIs "
+  message: "Hey, mrhba bikom to MyBank loans related production APIs "
   contactDetails:
     name: "salah - Product Owner"
     email: "salah@gmail.com"
