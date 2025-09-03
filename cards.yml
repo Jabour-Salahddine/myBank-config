@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to MyBank cards related local APIs "
+  message: "Welcome to MyBank cards related docker APIs "
   contactDetails:
     name: " soumiya - Developer"
     email: "soumiya@gmail.com"
